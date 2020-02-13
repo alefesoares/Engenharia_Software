@@ -6,8 +6,8 @@ public class aderaldo {
 	int ex3;
 
 public void somar( int x, int y) {
-	int z = x+y;
-	System.out.println(z); 
+	int t = x+y;
+	System.out.println(t); 
 	
 }
 }
